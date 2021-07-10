@@ -1,4 +1,4 @@
-# MyProject1
+# Final Year Project
 Suspicious Email Detection System
 
 # PROBLEM STATEMENT 
